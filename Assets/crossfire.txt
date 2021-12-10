@@ -1,0 +1,9 @@
+2. oyunda
+- başka mapler koy parayla açılsın
+- inapp purchase olabilir. 
+- düşmanlar bazen ölünce yeşil para düşürsün.
+
+
+yapilacaklar
+- https://play.google.com/console/developers/5516407570388008391/app/4973829223647820968/app-content/privacy-policy
+- privacy policy ekle siteye, ki 13 yas alti oynansin. color cubes icin de aynisini yap.
